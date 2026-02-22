@@ -145,7 +145,7 @@ npm start
 
 Your chat app is now live! Share your frontend URL with friends to start chatting!
 
-**Frontend URL:** `https://chat-app-frontend-xxxx.onrender.com`
+**Frontend URL:** `https://realtime-chatapp-client-zm4z.onrender.com`
 
 ---
 
