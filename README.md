@@ -1,4 +1,4 @@
-# Real-Time Chat App 💬
+# Real-Time Chat App :
 
 A real-time chat application built with React, Node.js, Express, and Socket.IO.
 
